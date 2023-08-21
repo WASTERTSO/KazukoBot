@@ -15,7 +15,7 @@ News channel as at [Kazuko Updates](https://t.me/KazukoUpdates)
 ## Deploying
 Deploy via Heroku.
 <p>
-  <a href="https://heroku.com/deploy?template=https://github.com/heyaaman/KazukoBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/wastertso/KazukoBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 </p>
 
 ### How to setup/deploy.
